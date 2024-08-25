@@ -1,0 +1,117 @@
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.csproj.CoreCompileInputs.cache
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Business.dll.config
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Business.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Business.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\DevFramework.Core.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\FluentValidation.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.DataAccess.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Entities.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\Ninject.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\PostSharp.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.Mvc.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\AutoMapper.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\NHibernate.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\EntityFramework.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\log4net.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\Newtonsoft.Json.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.Razor.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\Iesi.Collections.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\DevFramework.Core.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\DevFramework.Core.dll.config
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.DataAccess.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Entities.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\FluentValidation.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\Ninject.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\PostSharp.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.Mvc.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\AutoMapper.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\NHibernate.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\EntityFramework.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\log4net.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\Newtonsoft.Json.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.Razor.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\Iesi.Collections.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Business.pssym
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.csprojResolveAssemblyReference.cache
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.dll.postsharp
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.dll
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.pdb
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.DataAccess.dll.config
+c:\users\engin\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Entities.dll.config
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Business.dll.config
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Business.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Business.pdb
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\DevFramework.Core.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\FluentValidation.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.DataAccess.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Entities.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\Ninject.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\PostSharp.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.Mvc.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\EntityFramework.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.Razor.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\DevFramework.Core.pdb
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\DevFramework.Core.dll.config
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.DataAccess.pdb
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.DataAccess.dll.config
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Entities.pdb
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Entities.dll.config
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\FluentValidation.xml
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\Ninject.xml
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\PostSharp.xml
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.Mvc.xml
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\EntityFramework.xml
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.Razor.xml
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\bin\Debug\MemberRegistration.Business.pssym
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\obj\Debug\MemberRe.2A3E2565.Up2Date
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.dll.postsharp
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.dll
+C:\Users\murat\source\repos\MemberRegistration\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.pdb
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\MemberRegistration.Business.dll.config
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\MemberRegistration.Business.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\MemberRegistration.Business.pdb
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\DevFramework.Core.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\MemberRegistration.DataAccess.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\MemberRegistration.Entities.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\Ninject.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\System.Web.Mvc.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\EntityFramework.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\System.Web.Razor.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\System.Web.WebPages.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\DevFramework.Core.pdb
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\DevFramework.Core.dll.config
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\MemberRegistration.DataAccess.pdb
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\MemberRegistration.DataAccess.dll.config
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\MemberRegistration.Entities.pdb
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\MemberRegistration.Entities.dll.config
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\Ninject.xml
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\System.Web.Mvc.xml
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\EntityFramework.xml
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\System.Web.Razor.xml
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\System.Web.WebPages.xml
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\obj\Debug\MemberRe.2A3E2565.Up2Date
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.dll
+C:\Users\murat\Desktop\Yeni klasör\SoapClient-KPSPublic\MemberRegistration.Business\obj\Debug\MemberRegistration.Business.pdb

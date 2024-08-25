@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MemberRegistration.Business",
+    "\\MemberRegistration.Business\\DependencyResolvers",
+    "\\MemberRegistration.Business\\DependencyResolvers\\Ninject",
+    "\\MemberRegistration.Business\\Properties",
+    "\\MemberRegistration.Business\\ServiceAdapters",
+    "\\MemberRegistration.ConsoleUI"
+  ],
+  "SelectedNode": "\\MemberRegistration.ConsoleUI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
